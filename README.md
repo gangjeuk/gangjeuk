@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://gangjeuk.github.io/" target="_blank"><img src="https://img.shields.io/badge/blog-3884FF?style=plastic&logo=githubpages&logoColor=222222"/></a>
+<a href="https://picoground.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/blog-3884FF?style=plastic&logo=githubpages&logoColor=222222"/></a>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d89ef7f-46ce-4bf2-a1a9-6f93cb134cc1/deploy-status)](https://app.netlify.com/sites/picoground/deploys)
 
